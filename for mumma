@@ -18,7 +18,6 @@ function showNo() {
   document.body.innerHTML = `
     <div style="text-align:center; margin-top:60px; font-family:Arial; background:#fffafc;">
       <h2 style="color:#ff6b81;">Aisa kaise Mumma… 🥺</h2>
-      <img src="cat.png" style="width:180px; border-radius:20px; margin-top:20px;">
       <p style="font-size:18px; margin-top:15px; color:#555;">
       </p>
     </div>
